@@ -1,0 +1,21 @@
+{
+  "block.thelastplayer.echo_device": "Strange Device",
+  "block.thelastplayer.lab_terminal": "Lab Terminal",
+  "block.thelastplayer.reset_core": "Reset Core",
+  "item.thelastplayer.blue_glass_shard": "Blue Glass Shard",
+  "item.thelastplayer.old_letter": "Old Letter",
+  "item.thelastplayer.memory_log": "Memory Log",
+  "entity.thelastplayer.echo": "ECHO",
+  "tooltip.thelastplayer.blue_glass_shard": "A fragment of something that was never meant to break.",
+  "tooltip.thelastplayer.old_letter": "Right-click to read.",
+  "tooltip.thelastplayer.memory_log": "ECHO-07 - hidden memory record. Right-click to read.",
+  "subtitles.thelastplayer.happy": "ECHO chirps",
+  "subtitles.thelastplayer.laugh": "ECHO laughs",
+  "subtitles.thelastplayer.curious": "ECHO wonders",
+  "subtitles.thelastplayer.sad": "ECHO whimpers",
+  "subtitles.thelastplayer.fear": "ECHO trembles",
+  "subtitles.thelastplayer.breakdown": "ECHO breaks down",
+  "subtitles.thelastplayer.glitch": "Static",
+  "subtitles.thelastplayer.whisper": "A faint whisper",
+  "subtitles.thelastplayer.ambient_hum": "Machinery hums"
+}

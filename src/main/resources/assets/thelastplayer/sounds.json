@@ -1,0 +1,110 @@
+{
+  "echo_happy": {
+    "category": "neutral",
+    "sounds": [
+      "thelastplayer:echo/happy"
+    ],
+    "subtitle": "subtitles.thelastplayer.happy"
+  },
+  "echo_laugh": {
+    "category": "neutral",
+    "sounds": [
+      "thelastplayer:echo/laugh"
+    ],
+    "subtitle": "subtitles.thelastplayer.laugh"
+  },
+  "echo_curious": {
+    "category": "neutral",
+    "sounds": [
+      "thelastplayer:echo/curious"
+    ],
+    "subtitle": "subtitles.thelastplayer.curious"
+  },
+  "echo_sad": {
+    "category": "neutral",
+    "sounds": [
+      "thelastplayer:echo/sad"
+    ],
+    "subtitle": "subtitles.thelastplayer.sad"
+  },
+  "echo_fear": {
+    "category": "neutral",
+    "sounds": [
+      "thelastplayer:echo/fear"
+    ],
+    "subtitle": "subtitles.thelastplayer.fear"
+  },
+  "echo_breakdown": {
+    "category": "neutral",
+    "sounds": [
+      "thelastplayer:echo/breakdown"
+    ],
+    "subtitle": "subtitles.thelastplayer.breakdown"
+  },
+  "echo_glitch": {
+    "category": "neutral",
+    "sounds": [
+      "thelastplayer:echo/glitch"
+    ],
+    "subtitle": "subtitles.thelastplayer.glitch"
+  },
+  "echo_whisper": {
+    "category": "neutral",
+    "sounds": [
+      "thelastplayer:echo/whisper"
+    ],
+    "subtitle": "subtitles.thelastplayer.whisper"
+  },
+  "ambient_hum": {
+    "category": "neutral",
+    "sounds": [
+      "thelastplayer:echo/ambient_hum"
+    ],
+    "subtitle": "subtitles.thelastplayer.ambient_hum"
+  },
+  "music_calm": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "thelastplayer:music/calm",
+        "stream": true
+      }
+    ]
+  },
+  "music_uneasy": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "thelastplayer:music/uneasy",
+        "stream": true
+      }
+    ]
+  },
+  "music_dread": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "thelastplayer:music/dread",
+        "stream": true
+      }
+    ]
+  },
+  "music_sorrow": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "thelastplayer:music/sorrow",
+        "stream": true
+      }
+    ]
+  },
+  "music_final": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "thelastplayer:music/final",
+        "stream": true
+      }
+    ]
+  }
+}

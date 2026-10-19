@@ -1,0 +1,21 @@
+{
+  "block.thelastplayer.echo_device": "جهاز غريب",
+  "block.thelastplayer.lab_terminal": "طرفية المختبر",
+  "block.thelastplayer.reset_core": "نواة إعادة الضبط",
+  "item.thelastplayer.blue_glass_shard": "قطعة زجاج زرقاء",
+  "item.thelastplayer.old_letter": "رسالة قديمة",
+  "item.thelastplayer.memory_log": "سجل الذاكرة",
+  "entity.thelastplayer.echo": "إيكو",
+  "tooltip.thelastplayer.blue_glass_shard": "جزء من شيء لم يكن مقدّرًا له أن ينكسر.",
+  "tooltip.thelastplayer.old_letter": "كليك يمين للقراءة.",
+  "tooltip.thelastplayer.memory_log": "ECHO-07 - سجل ذاكرة مخفي. كليك يمين للقراءة.",
+  "subtitles.thelastplayer.happy": "ECHO chirps",
+  "subtitles.thelastplayer.laugh": "ECHO laughs",
+  "subtitles.thelastplayer.curious": "ECHO wonders",
+  "subtitles.thelastplayer.sad": "ECHO whimpers",
+  "subtitles.thelastplayer.fear": "ECHO trembles",
+  "subtitles.thelastplayer.breakdown": "ECHO breaks down",
+  "subtitles.thelastplayer.glitch": "Static",
+  "subtitles.thelastplayer.whisper": "A faint whisper",
+  "subtitles.thelastplayer.ambient_hum": "Machinery hums"
+}

@@ -1,0 +1,15 @@
+.gradle/
+build/
+run/
+out/
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+eclipse/
+bin/
+# NEVER commit API keys
+*.key
+.env
+config/thelastplayer-common.toml

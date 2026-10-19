@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "top": "thelastplayer:block/lab_terminal_top",
+    "front": "thelastplayer:block/lab_terminal_front",
+    "side": "thelastplayer:block/lab_terminal_side"
+  }
+}
