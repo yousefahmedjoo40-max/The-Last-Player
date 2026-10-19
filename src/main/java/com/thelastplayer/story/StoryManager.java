@@ -21,7 +21,7 @@ import net.minecraft.server.MinecraftServer;
 import net.minecraft.util.Util;
 import net.minecraft.util.math.BlockPos;
 import net.minecraft.util.math.vector.Vector3d;
-import net.minecraft.util.text.ClickEvent;
+import net.minecraft.util.text.event.ClickEvent;
 import net.minecraft.util.text.IFormattableTextComponent;
 import net.minecraft.util.text.StringTextComponent;
 import net.minecraft.util.text.Style;
@@ -449,7 +449,7 @@ public final class StoryManager {
         BlockPos r = p.getRespawnPosition();
         if (r != null && p.getRespawnDimension() == World.OVERWORLD) return r;
         if (d.devicePos != null) return LabBuilder.surfaceAbove(p.getServer().overworld(), d.devicePos);
-        return p.level.getSharedSpawnPos();
+        return p.blockPosition();
     }
 
     private static void startDay4(ServerPlayerEntity p, StoryData d, BlockPos home) {
